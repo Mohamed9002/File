@@ -1,0 +1,151 @@
+
+
+body{background-image:url("Goi.jpg");
+  background-size:50%;
+  
+} 
+
+
+
+
+#div{background:#000000;
+  width: 200px;
+  height: 300px;
+  transform: translate(90px,150px);
+  border-radius:0px 10px 0px 10px ;
+ 
+ 
+}
+#img{ width: 70px;
+border-radius:50%;
+transform: translate(160px,-185px);}
+
+#h1{ font-size:20px;
+color:#FFFFFF;
+transform: translate(-160px, -200px)
+  
+}
+
+#h3{ transform: translate(-243px,-178px );
+color: #FFFFFF;
+font-size: 11px;
+}
+
+#inputemail{
+ transform: translate(110px, -175px);
+ width: 160px ;
+ height: 10px ;
+ background: #000000;
+ border-top: 0;
+ border-left: 0;
+ border-right: 0;
+ border-width:1;
+ color: white ;
+}
+
+#pass{
+  transform: translate(-220px, -150px);
+  color: #FFFFFF;
+  font-size: 11px;}
+  
+#inputpass{ 
+  transform: translate(110px, -147px);
+  width: 160px;
+  height: 10px;
+  background: #000000;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-width:1;
+  color: white ;
+  }
+  
+#pot{
+  transform: translate(-45px,-80px );
+  width: 140px;
+  border-radius:50px;
+  background:#E50202;
+  color: #FFFFFF;
+  
+}
+
+#mark {background:#1A27BD;
+transform: translateY(190px );
+color: white;
+}
+
+#h5{color:white;}
+
+#pop{ color:white;
+  
+}
+#reload{
+  
+width: 90px;
+height: 90px ;
+  
+}
+
+#key{
+  
+  background:#E50202;
+  transform: translate(90px, 0px );
+  width: 222px ;
+  color: white ;
+  border-radius:50px 0px ;
+}
+
+#textarea {
+  width: 95%;
+  height: 210px ;
+  border-color:#FA0000;
+  border-radius: 10px 10px 10px 10px ;
+  
+}
+#fuk{
+  width: 120px ;
+  background: #1B5913;
+  border: 0;
+  color:white ;
+  border-radius :10px 10px 10px 10px ;
+  
+}
+
+#tshfyr {
+  width: 120px ;
+  background:#B38585;
+  color: white ;
+  border: 0;
+  border-radius :10px 10px 10px 10px ;
+}
+
+#p{
+  background: #0BBB24 ;
+  border-radius :0px 10px 0px 10px ;
+  color: white ;
+  
+}
+#select{
+  background: #2536F2;
+  color: white;
+  border-radius:10px 10px 10px 10px ;
+  
+}
+#select{
+  background: #3A4E3D;
+  width: 100%;
+ 
+}
+
+#textarea2{
+  width: 95%;
+  height: 210px ;
+  border-color:#FA0000;
+  border-radius: 10px 10px 10px 10px ;
+  
+  
+}
+#audio{
+  width:30px;
+  
+}
